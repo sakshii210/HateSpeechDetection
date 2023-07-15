@@ -6,9 +6,7 @@ import pickle
 
 # Set page configuration
 st.set_page_config(page_title="Hate Speech Detection", layout="wide")
-#st.title("Welcome to Aditi Srivastava's Webpage")
-# Define the main title and subtitle
-#st.subheader("Author: Aditi Srivastava")
+
 st.title("Hate Speech Detection")
 st.markdown(
     """
